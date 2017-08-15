@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/crawler4j-3.3.2-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/crawler4j-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/jsoup-1.8.3(1).jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/commons-lang3-3.4/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/commons-lang3-3.4/commons-lang3-3.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/tika-app-1.11.jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/jackson-all-1.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/Winter 2016/Search Engines - CS454/Jar files/je-5.0.73.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
